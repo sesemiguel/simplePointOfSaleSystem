@@ -1,0 +1,2 @@
+# simplePointOfSaleSystem
+Project on-going
